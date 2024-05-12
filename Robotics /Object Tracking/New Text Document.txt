@@ -1,0 +1,4 @@
+Important Instuctions:
+1.We can run this only python 3.7 version.
+2.DeepSORT Repository is also needed to use diffrent modules.
+3.GitHUb Link: https://github.com/nwojke/deep_sort/tree/master/deep_sort
